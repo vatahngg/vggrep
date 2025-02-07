@@ -6,5 +6,6 @@ q=x+y
 w=x-y
 print("addition nswer",q)
 print("substraction answer",w)
+print("bay")
 
 
